@@ -1,0 +1,15 @@
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.csproj.AssemblyReference.cache
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.GeneratedMSBuildEditorConfig.editorconfig
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.AssemblyInfoInputs.cache
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.AssemblyInfo.cs
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.csproj.CoreCompileInputs.cache
+D:\C_sharp\Homework3\task23\bin\Debug\net7.0\task23.exe
+D:\C_sharp\Homework3\task23\bin\Debug\net7.0\task23.deps.json
+D:\C_sharp\Homework3\task23\bin\Debug\net7.0\task23.runtimeconfig.json
+D:\C_sharp\Homework3\task23\bin\Debug\net7.0\task23.dll
+D:\C_sharp\Homework3\task23\bin\Debug\net7.0\task23.pdb
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.dll
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\refint\task23.dll
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.pdb
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\task23.genruntimeconfig.cache
+D:\C_sharp\Homework3\task23\obj\Debug\net7.0\ref\task23.dll
